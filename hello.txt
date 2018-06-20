@@ -4,4 +4,7 @@ konnichiwa
 ### this is comment ###
 ### OK for merge ###
 
-### This is Shizaka's edit###
+
+### This is Nobita's edit! ###
+
+### This is Shizuka's edit! ###
