@@ -1,2 +1,5 @@
 Hello Github
 konnichiwa
+
+### this is comment ###
+### OK for merge ###
